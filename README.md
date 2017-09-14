@@ -1,4 +1,28 @@
-Programa para simulação de escalonamento de processos
+
+
+
+Trabalho composto de 3 partes:
+
+Componentes:
+
+    Marcelo Henrique
+    Mauricio Meneses
+    Ricardo Azevedo
+    x
+    x
+    x
+
+
+1 - Artigo
+2 - slide
+3 - programa de escalonamento
+
+1 - Artigo
+Atentar para o modelo do doc(.ODT) usar libreOffice
+
+2 - Slide (libreOffice)
+
+3 - Programa para simulação de escalonamento de processos
 Nome: CriptESC
 
 
